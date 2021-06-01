@@ -26,6 +26,11 @@ Node JS - Быстрый Курс за 1 час
 # 3. Использование файловой системы
 <p>Попробуем создать папку с вложенным файлом, внутрь которого запишем информацию о нашей операционной системе</p>
 Для этого воспользуемся модулями: **"path"**(для указания пути), **"fs"**(для создания, изменения файлов), **"os"**(для получения информации о ос).
+<p>Для начала создадим папку "test", и создадим внутри файл "text.txt" с текстом приветствия! :</p>
 <div style="width: 100%; text-align: center;">
 <img src="https://st.storeland.ru/9/2728/030/nodeJs_4.jpg" width="320" style="margin:auto; display: block;" alt="Nest Logo" />
+</div>
+<p>Далее получим информацию по нашей ОС c помощью модуля </p>**'os'** и полученные данные запишем в файл "text.txt":
+<div style="width: 100%; text-align: center;">
+<img src="https://st.storeland.ru/7/2728/056/nodeJs_5.jpg" width="320" style="margin:auto; display: block;" alt="Nest Logo" />
 </div>
